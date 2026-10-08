@@ -50,7 +50,7 @@ The project includes sales data and dimensional tables for dates, products, and 
 
 ## Power BI Dashboard
 
-![Sales Analytics Dashboard](screenshots/dashboard.png)
+![Sales Analytics Dashboard](Screenshots/dashboard.png)
 
 The dashboard provides:
 
