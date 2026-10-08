@@ -1,0 +1,11 @@
+id_commande,date_commande,produit,categorie,quantite,prix_unitaire,ville,chiffre_affaires
+CMD001,2026-01-05,Ordinateur,Informatique,2,6500,Casablanca,13000
+CMD002,2026-01-06,Souris,Accessoires,5,120,Rabat,600
+CMD003,2026-01-07,Clavier,Accessoires,3,250,Marrakech,750
+CMD004,2026-01-08,Ecran,Informatique,1,1800,Tanger,1800
+CMD005,2026-01-09,Imprimante,Informatique,2,2200,Fes,4400
+CMD006,2026-01-10,Souris,Accessoires,4,120,Casablanca,480
+CMD007,2026-01-11,Clavier,Accessoires,2,250,Rabat,500
+CMD008,2026-01-12,Ordinateur,Informatique,1,6500,Marrakech,6500
+CMD009,2026-01-13,Ecran,Informatique,3,1800,Tanger,5400
+CMD010,2026-01-14,Imprimante,Informatique,1,2200,Fes,2200

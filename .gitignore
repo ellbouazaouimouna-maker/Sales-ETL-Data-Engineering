@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Informations sensibles
+.env
+.env.*
+!.env.example
+
+# Fichiers temporaires
+.vscode/
+.ipynb_checkpoints/
